@@ -32,7 +32,7 @@ Hi! I'm **Zhang Xulu**, a Computer Science undergraduate at PolyU. I enjoy turni
 
 - 🎓 **Education / 教育：** BSc in Computer Science, Minor in Finance / 计算机科学学士，辅修金融
 - 🔭 **Focus / 方向：** LLM inference & optimization, systems & concurrency, applied ML / LLM 推理优化、系统与并发、应用机器学习
-- 🏆 **Achievement / 成就：** Kaggle Silver Medal — Solo, Top 4% / Kaggle 银牌 — 单人参赛，前 4%
+- 🏆 **Achievement / 成就：** Kaggle Silver Medal —  Top 4% / Kaggle 银牌 — 前 4%
 - 📫 **Email / 邮箱：** [xu-lu.zhang@connect.polyu.hk](mailto:xu-lu.zhang@connect.polyu.hk)
 - 🌐 **Website / 网站：** [anosia.dev](https://anosia.dev)
 
