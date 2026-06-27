@@ -28,13 +28,13 @@
 
 Hi! I'm **Zhang Xulu**, a Computer Science undergraduate at PolyU. I enjoy turning machine-learning ideas into efficient, reliable systems, with a particular interest in **LLM inference, concurrency, and applied machine learning**.
 
-你好！我是 **Zhang Xulu**，香港理工大学计算机科学本科生。我关注如何将机器学习想法落地为高效、可靠的系统，目前主要探索 **LLM 推理优化、并发系统与应用机器学习**。
+你好！我是 **张湑露**，香港理工大学计算机科学本科生。我关注如何将机器学习想法落地为高效、可靠的系统，目前主要探索 **LLM 推理优化、并发系统与应用机器学习**。
 
-- 🎓 **Education / 教育：**BSc in Computer Science, Minor in Finance / 计算机科学学士，辅修金融
-- 🔭 **Focus / 方向：**LLM inference & optimization, systems & concurrency, applied ML / LLM 推理优化、系统与并发、应用机器学习
-- 🏆 **Achievement / 成就：**Kaggle Silver Medal — Solo, Top 4% / Kaggle 银牌 — 单人参赛，前 4%
-- 📫 **Email / 邮箱：**[xu-lu.zhang@connect.polyu.hk](mailto:xu-lu.zhang@connect.polyu.hk)
-- 🌐 **Website / 网站：**[anosia.dev](https://anosia.dev)
+- 🎓 **Education / 教育：** BSc in Computer Science, Minor in Finance / 计算机科学学士，辅修金融
+- 🔭 **Focus / 方向：** LLM inference & optimization, systems & concurrency, applied ML / LLM 推理优化、系统与并发、应用机器学习
+- 🏆 **Achievement / 成就：** Kaggle Silver Medal — Solo, Top 4% / Kaggle 银牌 — 单人参赛，前 4%
+- 📫 **Email / 邮箱：** [xu-lu.zhang@connect.polyu.hk](mailto:xu-lu.zhang@connect.polyu.hk)
+- 🌐 **Website / 网站：** [anosia.dev](https://anosia.dev)
 
 ## 🎓 Education / 教育经历
 
@@ -76,7 +76,6 @@ Hong Kong · Sep 2024 – Jun 2028 (Expected) / 中国香港 · 2024.09 – 2028
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Luxiao-vivian&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=8b5cf6&amp;icon_color=06b6d4" alt="Zhang Xulu's GitHub stats">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxiao-vivian&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=8b5cf6&amp;langs_count=8" alt="Most-used languages">
 
 <br>
@@ -101,8 +100,9 @@ Hong Kong · Sep 2024 – Jun 2028 (Expected) / 中国香港 · 2024.09 – 2028
 
 **Silver Medal · 51st / 1282 (Top 4%) · Solo · Jul–Sep 2025**
 
-- **EN:** Built an end-to-end pipeline to extract and classify data-citation references from scientific PDF/XML documents. Ran Qwen2.5-32B-Instruct on constrained hardware using **AWQ quantization, vLLM, and dual-GPU tensor parallelism**, then improved precision with few-shot prompting, threshold tuning, and rule-based post-processing.
-- **中文：**构建端到端管线，从科研全文 PDF/XML 中抽取并分类数据引用。通过 **AWQ 量化、vLLM 与双 GPU 张量并行**在有限算力上部署 Qwen2.5-32B-Instruct，并利用 few-shot 提示、阈值调优及规则后处理提升精度。
+Built an end-to-end pipeline to extract and classify data-citation references from scientific PDF/XML documents. Ran Qwen2.5-32B-Instruct on constrained hardware using **AWQ quantization, vLLM, and dual-GPU tensor parallelism**, then improved precision with few-shot prompting, threshold tuning, and rule-based post-processing.
+
+构建端到端管线，从科研全文 PDF/XML 中抽取并分类数据引用。通过 **AWQ 量化、vLLM 与双 GPU 张量并行**在有限算力上部署 Qwen2.5-32B-Instruct，并利用 few-shot 提示、阈值调优及规则后处理提升精度。
 
 `Python` · `vLLM` · `AWQ` · `Polars` · `PyMuPDF`
 
@@ -110,8 +110,9 @@ Hong Kong · Sep 2024 – Jun 2028 (Expected) / 中国香港 · 2024.09 – 2028
 
 **Public Leaderboard: 0.841 · Solo · Oct–Nov 2025**
 
-- **EN:** Tackled a high-dimensional dataset with 300 features and only 250 samples. Combined L1/L2-regularized logistic regression, feature selection, and cross-validation to improve generalization.
-- **中文：**针对仅有 250 个样本、包含 300 个特征的高维小样本数据，结合 L1/L2 正则化逻辑回归、特征选择与交叉验证控制过拟合并提升泛化能力。
+Tackled a high-dimensional dataset with 300 features and only 250 samples. Combined L1/L2-regularized logistic regression, feature selection, and cross-validation to improve generalization.
+
+针对仅有 250 个样本、包含 300 个特征的高维小样本数据，结合 L1/L2 正则化逻辑回归、特征选择与交叉验证控制过拟合并提升泛化能力。
 
 `Python` · `scikit-learn`
 
@@ -119,8 +120,9 @@ Hong Kong · Sep 2024 – Jun 2028 (Expected) / 中国香港 · 2024.09 – 2028
 
 ### 🦀 Distributed Sensor Data Aggregation Platform / 分布式传感器数据聚合平台
 
-- **EN:** Built a concurrent real-time sensor pipeline in Rust with zero data loss under sustained load. Implemented a producer-consumer buffer with `Mutex`/`Condvar`, windowed statistics and anomaly detection, `RwLock`-based storage, and a multi-threaded HTTP server.
-- **中文：**使用 Rust 构建并发实时传感器数据管线，在持续负载下保持零数据丢失；实现基于 `Mutex`/`Condvar` 的生产者—消费者缓冲区、窗口统计与异常检测、`RwLock` 存储层以及多线程 HTTP 服务。
+Built a concurrent real-time sensor pipeline in Rust with zero data loss under sustained load. Implemented a producer-consumer buffer with `Mutex`/`Condvar`, windowed statistics and anomaly detection, `RwLock`-based storage, and a multi-threaded HTTP server.
+
+使用 Rust 构建并发实时传感器数据管线，在持续负载下保持零数据丢失；实现基于 `Mutex`/`Condvar` 的生产者—消费者缓冲区、窗口统计与异常检测、`RwLock` 存储层以及多线程 HTTP 服务。
 
 `Rust` · `Multi-threading` · `Real-time Processing`
 
@@ -128,8 +130,9 @@ Hong Kong · Sep 2024 – Jun 2028 (Expected) / 中国香港 · 2024.09 – 2028
 
 **On-Device Image Classification / 端侧图像分类 · Mar 2026**
 
-- **EN:** Built an end-to-end classifier for 8+ plant species using a self-collected dataset. Combined HOG, color histograms, and LBP with lightweight SVM and Random Forest models, selected through cross-validation and evaluated with per-class precision, recall, and F1.
-- **中文：**基于自采数据集构建覆盖 8 种以上植物的端到端分类器。融合 HOG、颜色直方图和 LBP 特征，训练轻量 SVM 与随机森林模型，通过交叉验证选优，并使用逐类精确率、召回率和 F1 进行评估。
+Built an end-to-end classifier for 8+ plant species using a self-collected dataset. Combined HOG, color histograms, and LBP with lightweight SVM and Random Forest models, selected through cross-validation and evaluated with per-class precision, recall, and F1.
+
+基于自采数据集构建覆盖 8 种以上植物的端到端分类器。融合 HOG、颜色直方图和 LBP 特征，训练轻量 SVM 与随机森林模型，通过交叉验证选优，并使用逐类精确率、召回率和 F1 进行评估。
 
 `Python` · `scikit-learn` · `OpenCV`
 
