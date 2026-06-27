@@ -34,7 +34,7 @@ Hi! I'm **Zhang Xulu**, a Computer Science undergraduate at PolyU. I enjoy turni
 - 🔭 **Focus / 方向：**LLM inference & optimization, systems & concurrency, applied ML / LLM 推理优化、系统与并发、应用机器学习
 - 🏆 **Achievement / 成就：**Kaggle Silver Medal — Solo, Top 4% / Kaggle 银牌 — 单人参赛，前 4%
 - 📫 **Email / 邮箱：**[xu-lu.zhang@connect.polyu.hk](mailto:xu-lu.zhang@connect.polyu.hk)
-- 🌐 **Portfolio / 作品集：**[anosia.dev](https://anosia.dev)
+- 🌐 **Website / 网站：**[anosia.dev](https://anosia.dev)
 
 ## 🎓 Education / 教育经历
 
@@ -88,9 +88,9 @@ Hong Kong · Sep 2024 – Jun 2028 (Expected) / 中国香港 · 2024.09 – 2028
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luxiao-vivian/Luxiao-vivian/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luxiao-vivian/Luxiao-vivian/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Luxiao-vivian/Luxiao-vivian/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luxiao-vivian/Luxiao-vivian/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luxiao-vivian/Luxiao-vivian/gh-pages/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Luxiao-vivian/Luxiao-vivian/gh-pages/github-contribution-grid-snake.svg" alt="Contribution grid snake animation">
 </picture>
 
 </div>
@@ -133,11 +133,14 @@ Hong Kong · Sep 2024 – Jun 2028 (Expected) / 中国香港 · 2024.09 – 2028
 
 `Python` · `scikit-learn` · `OpenCV`
 
-## 🎖️ Trophies / GitHub 奖杯
+## 🎖️ Achievements / 个人成就
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Luxiao-vivian&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" alt="GitHub trophies">
+<img src="https://img.shields.io/badge/Kaggle-Silver%20Medal-8B5CF6?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle Silver Medal">
+<img src="https://img.shields.io/badge/Rank-51%20%2F%201282-06B6D4?style=for-the-badge" alt="Rank 51 out of 1282">
+<img src="https://img.shields.io/badge/Top-4%25-6366F1?style=for-the-badge" alt="Top 4 percent">
+<img src="https://img.shields.io/badge/Team-Solo-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Solo competitor">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:8b5cf6,100:6366f1&amp;height=120&amp;section=footer" alt="">
 
